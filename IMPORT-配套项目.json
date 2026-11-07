@@ -1,0 +1,126 @@
+{
+  "source": "D:\\ithma\\2.资料\\前端、中台项目",
+  "files": [
+    {
+      "path": "customer-service-frontend/index.html",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\index.html"
+    },
+    {
+      "path": "customer-service-frontend/package-lock.json",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\package-lock.json"
+    },
+    {
+      "path": "customer-service-frontend/package.json",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\package.json"
+    },
+    {
+      "path": "customer-service-frontend/src/App.vue",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\src\\App.vue"
+    },
+    {
+      "path": "customer-service-frontend/src/assets/logo.webp",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\src\\assets\\logo.webp"
+    },
+    {
+      "path": "customer-service-frontend/src/assets/userProfileAvatar.svg",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\src\\assets\\userProfileAvatar.svg"
+    },
+    {
+      "path": "customer-service-frontend/src/assets/xiaoer.png",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\src\\assets\\xiaoer.png"
+    },
+    {
+      "path": "customer-service-frontend/src/main.js",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\src\\main.js"
+    },
+    {
+      "path": "customer-service-frontend/vite.config.js",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-frontend\\vite.config.js"
+    },
+    {
+      "path": "ecommerce-service-backend/.env.example",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\.env.example"
+    },
+    {
+      "path": "ecommerce-service-backend/app/__init__.py",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\app\\__init__.py"
+    },
+    {
+      "path": "ecommerce-service-backend/app/api.py",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\app\\api.py"
+    },
+    {
+      "path": "ecommerce-service-backend/app/app.py",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\app\\app.py"
+    },
+    {
+      "path": "ecommerce-service-backend/app/config.py",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\app\\config.py"
+    },
+    {
+      "path": "ecommerce-service-backend/app/database.py",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\app\\database.py"
+    },
+    {
+      "path": "ecommerce-service-backend/app/models.py",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\app\\models.py"
+    },
+    {
+      "path": "ecommerce-service-backend/app/schemas.py",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\app\\schemas.py"
+    },
+    {
+      "path": "ecommerce-service-backend/main.py",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\main.py"
+    },
+    {
+      "path": "ecommerce-service-backend/pyproject.toml",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\pyproject.toml"
+    },
+    {
+      "path": "ecommerce-service-backend/README.md",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\README.md"
+    },
+    {
+      "path": "ecommerce-service-backend/uv.lock",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\uv.lock"
+    },
+    {
+      "path": "docker/docker-compose.yml",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\docker\\docker-compose.yml"
+    },
+    {
+      "path": "docker/mysql/initdb/001_init_customer_service.sql",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\docker\\mysql\\initdb\\001_init_customer_service.sql"
+    },
+    {
+      "path": "docker/mysql/initdb/002_init_commerce.sql",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\docker\\mysql\\initdb\\002_init_commerce.sql"
+    },
+    {
+      "path": "docker/windows/initdb/001_init_customer_service.sql",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\docker\\windows\\initdb\\001_init_customer_service.sql"
+    },
+    {
+      "path": "docker/windows/initdb/002_init_commerce.sql",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\docker\\windows\\initdb\\002_init_commerce.sql"
+    },
+    {
+      "path": "ecommerce-service-backend/.env",
+      "source": "D:\\ithma\\2.资料\\前端、中台项目\\ecommerce-service-backend\\.env.example",
+      "note": "从占位示例复制；未连接数据库"
+    },
+    {
+      "path": "README.md",
+      "note": "更新配套目录说明，保留其余内容"
+    },
+    {
+      "path": ".gitignore",
+      "note": "增加前端依赖与构建产物排除规则"
+    },
+    {
+      "path": "README-全栈启动.md",
+      "note": "新增三组件启动与数据库配置说明"
+    }
+  ]
+}

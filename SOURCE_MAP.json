@@ -1,0 +1,523 @@
+{
+  "atguigu/conf/config.py": [
+    {
+      "note": "01【电商小二】项目概述与整体架构.md",
+      "line": 564
+    }
+  ],
+  "atguigu/infrastructure/llm.py": [
+    {
+      "note": "01【电商小二】项目概述与整体架构.md",
+      "line": 610
+    }
+  ],
+  "atguigu/infrastructure/http_client.py": [
+    {
+      "note": "01【电商小二】项目概述与整体架构.md",
+      "line": 672
+    }
+  ],
+  "atguigu/infrastructure/database.py": [
+    {
+      "note": "01【电商小二】项目概述与整体架构.md",
+      "line": 937
+    }
+  ],
+  "atguigu/domain/messages.py": [
+    {
+      "note": "02【电商小二】领域模型domain.md",
+      "line": 166
+    },
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 55
+    }
+  ],
+  "atguigu/domain/contexts.py": [
+    {
+      "note": "02【电商小二】领域模型domain.md",
+      "line": 1102
+    }
+  ],
+  "atguigu/domain/state.py": [
+    {
+      "note": "02【电商小二】领域模型domain.md",
+      "line": 1723
+    },
+    {
+      "note": "07【电商小二】TaskHandler与CommandProcessor.md",
+      "line": 38
+    }
+  ],
+  "atguigu/task/flow/links.py": [
+    {
+      "note": "03【电商小二】流程数据模型与加载.md",
+      "line": 1322
+    }
+  ],
+  "atguigu/task/flow/steps.py": [
+    {
+      "note": "03【电商小二】流程数据模型与加载.md",
+      "line": 1733
+    }
+  ],
+  "atguigu/task/flow/flows.py": [
+    {
+      "note": "03【电商小二】流程数据模型与加载.md",
+      "line": 1925
+    }
+  ],
+  "atguigu/task/flow/loader.py": [
+    {
+      "note": "03【电商小二】流程数据模型与加载.md",
+      "line": 2000
+    }
+  ],
+  "atguigu/api/schemas.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 72
+    }
+  ],
+  "atguigu/models/base.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 156
+    }
+  ],
+  "atguigu/models/dialogue_state.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 171
+    }
+  ],
+  "atguigu/repository/dialogue_state_repository.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 247
+    },
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 268
+    },
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 305
+    }
+  ],
+  "atguigu/service/dialogue_service.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 403
+    },
+    {
+      "note": "11【电商小二】历史对话实现.md",
+      "line": 160
+    }
+  ],
+  "atguigu/api/routers/chat_router.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 535
+    },
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 573
+    },
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 605
+    },
+    {
+      "note": "11【电商小二】历史对话实现.md",
+      "line": 230
+    }
+  ],
+  "atguigu/main.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 696
+    }
+  ],
+  "atguigu/task/command/models.py": [
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 429
+    }
+  ],
+  "atguigu/prompts/loader.py": [
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 839
+    }
+  ],
+  "atguigu/prompts/history_builder.py": [
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 874
+    },
+    {
+      "note": "11【电商小二】历史对话实现.md",
+      "line": 114
+    }
+  ],
+  "atguigu/plan/turn_validator.py": [
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 127
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 188
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 218
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 234
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 414
+    }
+  ],
+  "atguigu/clarify/responder.py": [
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 820
+    }
+  ],
+  "atguigu/task/command/processor.py": [
+    {
+      "note": "07【电商小二】TaskHandler与CommandProcessor.md",
+      "line": 130
+    },
+    {
+      "note": "07【电商小二】TaskHandler与CommandProcessor.md",
+      "line": 227
+    },
+    {
+      "note": "07【电商小二】TaskHandler与CommandProcessor.md",
+      "line": 240
+    },
+    {
+      "note": "07【电商小二】TaskHandler与CommandProcessor.md",
+      "line": 327
+    },
+    {
+      "note": "07【电商小二】TaskHandler与CommandProcessor.md",
+      "line": 489
+    },
+    {
+      "note": "07【电商小二】TaskHandler与CommandProcessor.md",
+      "line": 545
+    },
+    {
+      "note": "07【电商小二】TaskHandler与CommandProcessor.md",
+      "line": 577
+    }
+  ],
+  "atguigu/task/action/registry.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 113
+    }
+  ],
+  "atguigu/task/action/runner.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 142
+    }
+  ],
+  "atguigu/task/action/builtin/action_listen.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 195
+    }
+  ],
+  "atguigu/task/action/builtin/action_response.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 265
+    }
+  ],
+  "atguigu/task/action/custom/shared.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 418
+    },
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 480
+    }
+  ],
+  "atguigu/task/action/builder.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 629
+    }
+  ],
+  "atguigu/task/handler.py": [
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 51
+    }
+  ],
+  "atguigu/chitchat/handler.py": [
+    {
+      "note": "10【电商小二】信息检索与闲聊.md",
+      "line": 20
+    }
+  ],
+  "atguigu/chitchat/responder.py": [
+    {
+      "note": "10【电商小二】信息检索与闲聊.md",
+      "line": 49
+    }
+  ],
+  "atguigu/knowledge/providers.py": [
+    {
+      "note": "10【电商小二】信息检索与闲聊.md",
+      "line": 168
+    }
+  ],
+  "atguigu/knowledge/registry.py": [
+    {
+      "note": "10【电商小二】信息检索与闲聊.md",
+      "line": 297
+    }
+  ],
+  "atguigu/knowledge/responder.py": [
+    {
+      "note": "10【电商小二】信息检索与闲聊.md",
+      "line": 351
+    }
+  ],
+  "atguigu/knowledge/handler.py": [
+    {
+      "note": "10【电商小二】信息检索与闲聊.md",
+      "line": 405
+    }
+  ],
+  "atguigu/plan/models.py": [
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 508
+    },
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 545
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 62
+    }
+  ],
+  "atguigu/knowledge/intents.py": [
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 329
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 350
+    }
+  ],
+  "atguigu/plan/turn_planner.py": [
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 1046
+    },
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 1089
+    },
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 1143
+    }
+  ],
+  "atguigu/engine/dialogue_engine.py": [
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 68
+    },
+    {
+      "note": "10【电商小二】信息检索与闲聊.md",
+      "line": 90
+    },
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 107
+    },
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 142
+    },
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 186
+    },
+    {
+      "note": "05【电商小二】DialogueEngine 与 TurnPlanner的LLM调用.md",
+      "line": 217
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 640
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 683
+    },
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 736
+    }
+  ],
+  "atguigu/task/action/base.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 60
+    },
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 91
+    }
+  ],
+  "atguigu/task/action/custom/lookup_order_status.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 500
+    }
+  ],
+  "atguigu/task/action/custom/lookup_logistics.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 552
+    }
+  ],
+  "atguigu/task/action/custom/recommend_similar_products.py": [
+    {
+      "note": "08【电商小二】Action实现.md",
+      "line": 584
+    }
+  ],
+  "atguigu/task/flow/executor.py": [
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 28
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 114
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 157
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 204
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 237
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 266
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 283
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 323
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 408
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 442
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 457
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 502
+    },
+    {
+      "note": "09【电商小二】FlowExecutor执行器.md",
+      "line": 529
+    }
+  ],
+  "atguigu/api/routers/dependencies.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 477
+    }
+  ],
+  "atguigu/api/dependencies.py": [],
+  "atguigu/api/app.py": [
+    {
+      "note": "04【电商小二】三层架构.md",
+      "line": 647
+    }
+  ],
+  "main.py": [],
+  "atguigu/prompts/jinja2/clarify_respond.jinja2": [
+    {
+      "note": "06【电商小二】防幻觉校验与对象消息处理.md",
+      "line": 997
+    }
+  ],
+  "atguigu/prompts/jinja2/knowledge_respond.jinja2": [
+    {
+      "note": "10【电商小二】信息检索与闲聊.md",
+      "line": 322
+    }
+  ],
+  "atguigu/prompts/jinja2/chitchat_respond.jinja2": [],
+  "atguigu/prompts/jinja2/turn_plan.jinja2": [],
+  "pyproject.toml": [
+    {
+      "materials": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-backend\\pyproject.toml"
+    }
+  ],
+  ".env.example": [
+    {
+      "materials": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-backend\\.env.example"
+    }
+  ],
+  ".env": [
+    {
+      "materials": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-backend\\.env.example",
+      "note": "仅为占位配置，需填写真实API密钥"
+    }
+  ],
+  "flow_config/system_flows.yml": [
+    {
+      "materials": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-backend\\flow_config\\system_flows.yml"
+    }
+  ],
+  "flow_config/user_flows.yml": [
+    {
+      "materials": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-backend\\flow_config\\user_flows.yml"
+    }
+  ],
+  "flow_config/__init__.py": [
+    {
+      "materials": "D:\\ithma\\2.资料\\前端、中台项目\\customer-service-backend\\flow_config\\__init__.py"
+    }
+  ],
+  ".gitignore": [],
+  "README.md": []
+}
